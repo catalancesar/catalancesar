@@ -2,7 +2,11 @@
 #### Petroleum Engineer | Full Stack Developer
 ![Petroleum Engineer | Full Stack Developer](https://res.cloudinary.com/findbookcloud/image/upload/v1661974935/samples/landscapes/untitled_lqlqwx.png)
 
-Passionate about technology, development and its impact on today's world. Currently, reinforcing knowledge in new technologies that allow me to fully exploit my habilities.
+Passionate about technology, development and its impact on today's world. 
+- 🌍 I'm settled in Bogota, Colombia
+- 🌱 Currently, reinforcing knowledge in new technologies that allow me to fully exploit my habilities.
+- 💬 Ask me about Technology, Puzzles, Football and Rhythm Videogames
+- ✉️ Can mailme to: cesar-catalan@hotmail.es
 
 #### Skills:
 React | Redux | Javascript | CSS | Tailwind | HTML5 | PostgresSQL | Sequelize | NodeJs | Express
@@ -22,7 +26,7 @@ React | Redux | Javascript | CSS | Tailwind | HTML5 | PostgresSQL | Sequelize | 
 
 #### Social Networks:
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="50" height="50" alt='github'>](https://github.com/catalancesar)  [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt='linkedin'>](https://www.linkedin.com/in/cesarcatalancantillo/)  
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="50" height="50" alt='github'>](https://github.com/catalancesar)  [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt='linkedin'>](https://www.linkedin.com/in/cesarcatalancantillo/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=catalancesar&show_icons=true)  
 
