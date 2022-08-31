@@ -8,7 +8,7 @@ Skills: Full Stack Developer | React | Redux | Javascript | CSS | HTML5 | Postgr
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color=`#ffffff`>](https://github.com/catalancesar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' background-color='#EBF5FB'>](https://www.linkedin.com/in/cesarcatalancantillo/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color='#ffffff'>](https://github.com/catalancesar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' background-color='#EBF5FB'>](https://www.linkedin.com/in/cesarcatalancantillo/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=catalancesar&show_icons=true)  
 
