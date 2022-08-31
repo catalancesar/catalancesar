@@ -8,7 +8,7 @@ Skills: Full Stack Developer | React | Redux | Javascript | CSS | HTML5 | Postgr
 
 
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="50" height="50" alt='github'>](https://github.com/catalancesar)  [<mg src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt='linkedin'>](https://www.linkedin.com/in/cesarcatalancantillo/)  
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="50" height="50" alt='github'>](https://github.com/catalancesar)  [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt='linkedin'>](https://www.linkedin.com/in/cesarcatalancantillo/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=catalancesar&show_icons=true)  
 
