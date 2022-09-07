@@ -1,6 +1,6 @@
 ### Hi there 👋, César Catalán
 #### Petroleum Engineer | Full Stack Developer
-![Petroleum Engineer | Full Stack Developer](https://res.cloudinary.com/findbookcloud/image/upload/v1661974935/samples/landscapes/untitled_lqlqwx.png)
+![Petroleum Engineer | Full Stack Developer](https://res.cloudinary.com/findbookcloud/image/upload/v1662530509/samples/landscapes/cesar_catalan_ggfmzg.png)
 
 Passionate about technology, development and its impact on today's world. 
 - 🌍 I'm settled in Bogota, Colombia
